@@ -1,2 +1,2 @@
-# be-laravel-shayna
-BE-Laravel-Shayna
+# Backend Laravel Store
+BE-Laravel-Store
